@@ -6,8 +6,6 @@ target/
 
 ### Environment Variables (NEVER commit these!) ###
 .env
-*.env
-!.env.example
 
 ### STS ###
 .apt_generated
